@@ -2,7 +2,7 @@
 
 int main(void) {
   printf("Fora Bozonaro\n");
-  return 0;
+  //return 0;
 }
 #
 
